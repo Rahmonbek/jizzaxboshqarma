@@ -424,7 +424,7 @@ this.getSpec()
               <YouTube
   video='5WJMIfsgQrk'                
   className={style.you}
-  autoplay={true}
+  autoplay={false}
   muted={true}                
   />
               </div>
@@ -435,7 +435,7 @@ this.getSpec()
               <YouTube
   video="ERl3IPN9l30"                
   className={style.you}
-  autoplay={true}
+  autoplay={false}
   muted={true}                
   />
               </div>
@@ -446,7 +446,7 @@ this.getSpec()
               <YouTube
   video="k6sD_RHLiVg"                
   className={style.you}
-  autoplay={true}
+  autoplay={false}
   muted={true}                
   />
               </div>
@@ -457,7 +457,7 @@ this.getSpec()
               <YouTube
   video="x3M_2IBy_Lk"                
   className={style.you}
-  autoplay={true}
+  autoplay={false}
   muted={true}                
   />
               </div>
@@ -468,7 +468,7 @@ this.getSpec()
               <YouTube
   video="-zZ54gFLkq4"                
   className={style.you}
-  autoplay={true}
+  autoplay={false}
   muted={true}                
   />
               </div>
@@ -479,7 +479,7 @@ this.getSpec()
               <YouTube
   video="Xjp5L7QvilA"                
   className={style.you}
-  autoplay={true}
+  autoplay={false}
   muted={true}  />
               </div>
           </Col>
