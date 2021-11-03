@@ -26,8 +26,7 @@ display: flex; align-items: center;  padding-left: 0; padding-right:10%;}
 }
 
 @media (min-width:1650px){
-.lik{font-size: 25px;
-}
+.lik{font-size: 30px;}
    
 }
 

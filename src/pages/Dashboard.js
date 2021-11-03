@@ -172,8 +172,8 @@ this.getSpec()
   </video>
   </div>
   <div className={style.binaf}>
-      <h1>{this.state.region!==null?this.state.region.address:''} {this.state.region!==null?this.state.region.region_name:''} tumani 
-      <br/> {this.state.school!==null?this.state.school.school_number:''} - {this.state.school!==null?this.state.school.type:''}</h1>
+      <h1>O'zbekiston Respublikasi Namangan 
+      <br/>viloyati xalq ta'limi boshqarmasi</h1>
   </div>
       <div className={style.second}>
         
@@ -403,6 +403,7 @@ this.getSpec()
 
       </div>
       <Cards/>
+           
       <div className={style.video1}>
                 <video loop={true} autoPlay={true} muted={true}>
       <source src={video3} type="video/mp4" />
@@ -424,7 +425,7 @@ this.getSpec()
               <YouTube
   video='5WJMIfsgQrk'                
   className={style.you}
-  autoplay={false}
+  autoplay={true}
   muted={true}                
   />
               </div>
@@ -435,7 +436,7 @@ this.getSpec()
               <YouTube
   video="ERl3IPN9l30"                
   className={style.you}
-  autoplay={false}
+  autoplay={true}
   muted={true}                
   />
               </div>
@@ -446,7 +447,7 @@ this.getSpec()
               <YouTube
   video="k6sD_RHLiVg"                
   className={style.you}
-  autoplay={false}
+  autoplay={true}
   muted={true}                
   />
               </div>
@@ -457,7 +458,7 @@ this.getSpec()
               <YouTube
   video="x3M_2IBy_Lk"                
   className={style.you}
-  autoplay={false}
+  autoplay={true}
   muted={true}                
   />
               </div>
@@ -468,7 +469,7 @@ this.getSpec()
               <YouTube
   video="-zZ54gFLkq4"                
   className={style.you}
-  autoplay={false}
+  autoplay={true}
   muted={true}                
   />
               </div>
@@ -479,7 +480,7 @@ this.getSpec()
               <YouTube
   video="Xjp5L7QvilA"                
   className={style.you}
-  autoplay={false}
+  autoplay={true}
   muted={true}  />
               </div>
           </Col>
@@ -643,7 +644,7 @@ this.getSpec()
 
 <YMaps>
 <div>
-<Map style={{width:'100%', height:'400px'}} defaultState={{ center: [41.3572425,60.818505], zoom: 12 }} >
+<Map style={{width:'100%', height:'400px'}} defaultState={{ center: [41.000630,71.669404], zoom: 12 }} >
 <Clusterer
               options={{
                 groupByCoordinates: false,
@@ -651,7 +652,7 @@ this.getSpec()
             >
               <Placemark
                 key={-1}
-                geometry={[41.3572425,60.818505]}
+                geometry={[41.000630,71.669404]}
                 options={{
                   iconLayout: "default#image",
                 }}
