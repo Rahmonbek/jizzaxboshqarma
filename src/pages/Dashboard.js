@@ -172,7 +172,7 @@ this.getSpec()
   </video>
   </div>
   <div className={style.binaf}>
-      <h1>O'zbekiston Respublikasi Namangan 
+      <h1>O'zbekiston Respublikasi Jizzax 
       <br/>viloyati xalq ta'limi boshqarmasi</h1>
   </div>
       <div className={style.second}>
@@ -644,7 +644,7 @@ this.getSpec()
 
 <YMaps>
 <div>
-<Map style={{width:'100%', height:'400px'}} defaultState={{ center: [41.000630,71.669404], zoom: 12 }} >
+<Map style={{width:'100%', height:'400px'}} defaultState={{ center: [40.120295, 67.828517], zoom: 12 }} >
 <Clusterer
               options={{
                 groupByCoordinates: false,
@@ -652,7 +652,7 @@ this.getSpec()
             >
               <Placemark
                 key={-1}
-                geometry={[41.000630,71.669404]}
+                geometry={[40.120295, 67.828517]}
                 options={{
                   iconLayout: "default#image",
                 }}

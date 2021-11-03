@@ -26,17 +26,17 @@ export const Xarita=()=> {
   const [forclick, setforclick] = useState(false);
   const [village, setVillage] = useState("");
   const [data, setData] = useState([
-    {params:[41.003480,71.659285],
+    {params:[40.120295, 67.828517],
       nomi:'1-maktab'},
-      {params:[41.002962,71.638672],
+      {params:[40.120295, 68.828517],
         nomi:'2-maktab'},
-        {params:[40.995966,71.655163],
+        {params:[40.120295, 67.848517],
           nomi:'3-maktab'},
-          {params:[41.016433,71.665813],
+          {params:[40.120295, 67.823517],
             nomi:'4-maktab'},
-            {params:[41.000889,71.583360],
+            {params:[40.120295, 67.428517],
               nomi:'5-maktab'},
-              {params:[40.985859,71.578894],
+              {params:[40.120295, 67.822517],
                 nomi:'6-maktab'},
                 {params:[41.001925,71.516711],
                   nomi:'7-maktab'},

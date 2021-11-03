@@ -42,9 +42,9 @@ export default class Boglanish extends Component {
                 <Map
                   width="100%"
                   height="60vh"
-                  defaultState={{ center: [41.000630,71.669404], zoom: 12 }}
+                  defaultState={{ center: [40.120295, 67.828517], zoom: 12 }}
                 >
-                  <Placemark geometry={[41.000630,71.669404]} />
+                  <Placemark geometry={[40.120295, 67.828517]} />
                 </Map>
               </div>
             </YMaps>

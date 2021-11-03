@@ -234,7 +234,7 @@ color="violet" loading={this.state.loader} size={40} />
             <div>
               <div className={style.head}>
                 <div className={style.head_text}>
-                O'zbekiston Respublikasi Namangan 
+                O'zbekiston Respublikasi Jizzax 
       viloyati xalq ta'limi boshqarmasining rahbariyat a'zolari
                 </div>
               </div>

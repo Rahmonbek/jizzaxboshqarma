@@ -48,21 +48,21 @@ export default class Footer extends Component {
                         <img src={logo}/>
                     </Col>
                     <Col lg={4} md={12} sm={12}>
-                        <p><b>Ishonch telefonlari : </b>{this.state.school!==null?this.state.school.phone:''}<br/>
+                        <p><b>Ishonch telefonlari : </b>+(99) 648-72-23<br/>
                        </p>
-                        <p><b>Email : </b>{this.state.school!==null?this.state.school.email:''}</p>
-                        <p><b>Manzil : </b>{this.state.school!==null?this.state.school.address:''}</p>
+                        <p><b>Email : </b> 47_maktab2019@mail.ru</p>
+                        <p><b>Manzil : </b>Jizzax viloyati xalq talim boshqarmasi</p>
                         <div className={style.icons}>
-                        <a href={this.state.school!==null?this.state.school.telegram:''}>
+                        <a href="#">
                                 <i className="fa fa-telegram"></i>
                             </a>
-                            <a href={this.state.school!==null?this.state.school.instagra:''}>
+                            <a href="#">
                                 <i className="fa fa-instagram"></i>
                             </a>
-                            <a href={this.state.school!==null?this.state.school.youtube:''}>
+                            <a href="#">
                                 <i className="fa fa-youtube"></i>
                             </a>
-                            <a href={this.state.school!==null?this.state.school.facebook:''}>
+                            <a href="#">
                                 <i className="fa fa-facebook"></i>
                             </a>
                         </div>

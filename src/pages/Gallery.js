@@ -63,7 +63,7 @@ axios.get(`${url}/region/${res.data.region}/`).then(res1=>{
   </video>
   </div>
   <div className={style.binaf}>
-  <h1>O'zbekiston Respublikasi Namangan 
+  <h1>O'zbekiston Respublikasi Jizzax 
       <br/>viloyati xalq ta'limi boshqarmasi fotolavhalari</h1>
   </div>
 

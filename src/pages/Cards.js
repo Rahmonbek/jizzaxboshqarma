@@ -61,7 +61,7 @@ export default class Cards extends Component {
                       style={{ fontSize: "16px" }}
                       className={style.ptr}
                     >
-                      Bog'ot tumani xaql ta'limi boshqarmasi
+                      Jizzax tumani xaql ta'limi boshqarmasi
                     </Card.Text>
                     <a className={style.hov_btn} href="#">
                       Bo'lim veb saytini ko'rish
@@ -134,7 +134,7 @@ export default class Cards extends Component {
                       style={{ fontSize: "16px" }}
                       className={style.ptr}
                     >
-                      Gurlan tumani xaql ta'limi boshqarmasi
+                      Tokchilar tumani xaql ta'limi boshqarmasi
                     </Card.Text>
                     <a className={style.hov_btn} href="#">
                       Bo'lim veb saytini ko'rish
@@ -207,7 +207,7 @@ export default class Cards extends Component {
                       style={{ fontSize: "16px" }}
                       className={style.ptr}
                     >
-                        Xonqa tumani xaql ta'limi boshqarmasi
+                        Uchtepa tumani xaql ta'limi boshqarmasi
                     </Card.Text>
                     <a className={style.hov_btn} href="#">
                       Bo'lim veb saytini ko'rish
@@ -280,7 +280,7 @@ export default class Cards extends Component {
                       style={{ fontSize: "16px" }}
                       className={style.ptr}
                     >
-                     Shovot tumani xaql ta'limi boshqarmasi
+                     Mo`lkonlik tumani xaql ta'limi boshqarmasi
                     </Card.Text>
                     <a className={style.hov_btn} href="#">
                       Bo'lim veb saytini ko'rish
@@ -353,7 +353,7 @@ export default class Cards extends Component {
                       style={{ fontSize: "16px" }}
                       className={style.ptr}
                     >
-                     Urganch shahri xaql ta'limi boshqarmasi
+                     Jizzaxlik shahri xaql ta'limi boshqarmasi
                     </Card.Text>
                     <a className={style.hov_btn} href="#">
                       Bo'lim veb saytini ko'rish
@@ -426,7 +426,7 @@ export default class Cards extends Component {
                       style={{ fontSize: "16px" }}
                       className={style.ptr}
                     >
-                     Urganch tumani xaql ta'limi boshqarmasi
+                     Chorvador tumani xaql ta'limi boshqarmasi
                     </Card.Text>
                     <a className={style.hov_btn} href="#">
                       Bo'lim veb saytini ko'rish

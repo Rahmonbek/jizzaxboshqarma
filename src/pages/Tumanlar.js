@@ -42,7 +42,7 @@ color="violet" loading={this.state.loader} size={40} />
             <NavbarT />
             <div className={style.head}>
               <div className={style.head_text}>
-              O'zbekiston Respublikasi Namangan 
+              O'zbekiston Respublikasi Jizzax 
       viloyati xalq ta'limi boshqarmasining tumanlaridagi bo'limlari
               </div>
             </div>
@@ -156,7 +156,7 @@ color="violet" loading={this.state.loader} size={40} />
                         className={style.video}
                       />
                       <p   className={style.pp}>
-                      Xorazm viloyati xalq ta'limi boshqarmasiga virtual
+                      Jizzax viloyati xalq ta'limi boshqarmasiga virtual
                         sayohat qiling va boshqarma haqida ko'proq ma'lumotga
                         ega bo'ling.
                       </p>
@@ -169,7 +169,7 @@ color="violet" loading={this.state.loader} size={40} />
               </div>
               <br />
               <div className={style.tumanlar_item}>
-                <h1 className={style.sarlavha}>Gurlan tumani</h1>
+                <h1 className={style.sarlavha}>Kitob tumani</h1>
 
              
              
@@ -277,7 +277,7 @@ color="violet" loading={this.state.loader} size={40} />
                         className={style.video}
                       />
                       <p   className={style.pp}>
-                      Xorazm viloyati xalq ta'limi boshqarmasiga virtual
+                      Jizzax viloyati xalq ta'limi boshqarmasiga virtual
                         sayohat qiling va boshqarma haqida ko'proq ma'lumotga
                         ega bo'ling.
                       </p>
@@ -398,7 +398,7 @@ color="violet" loading={this.state.loader} size={40} />
                         className={style.video}
                       />
                       <p   className={style.pp}>
-                      Xorazm viloyati xalq ta'limi boshqarmasiga virtual
+                      Jizzax viloyati xalq ta'limi boshqarmasiga virtual
                         sayohat qiling va boshqarma haqida ko'proq ma'lumotga
                         ega bo'ling.
                       </p>
@@ -519,7 +519,7 @@ color="violet" loading={this.state.loader} size={40} />
                         className={style.video}
                       />
                       <p   className={style.pp}>
-                      Xorazm viloyati xalq ta'limi boshqarmasiga virtual
+                      Jizzax viloyati xalq ta'limi boshqarmasiga virtual
                         sayohat qiling va boshqarma haqida ko'proq ma'lumotga
                         ega bo'ling.
                       </p>
@@ -640,7 +640,7 @@ color="violet" loading={this.state.loader} size={40} />
                         className={style.video}
                       />
                       <p   className={style.pp}>
-                        Xorazm viloyati xalq ta'limi boshqarmasiga virtual
+                        Jizzax viloyati xalq ta'limi boshqarmasiga virtual
                         sayohat qiling va boshqarma haqida ko'proq ma'lumotga
                         ega bo'ling.
                       </p>
@@ -761,7 +761,7 @@ color="violet" loading={this.state.loader} size={40} />
                         className={style.video}
                       />
                       <p   className={style.pp}>
-                      Xorazm viloyati xalq ta'limi boshqarmasiga virtual
+                      Jizzax viloyati xalq ta'limi boshqarmasiga virtual
                         sayohat qiling va boshqarma haqida ko'proq ma'lumotga
                         ega bo'ling.
                       </p>
@@ -883,7 +883,7 @@ color="violet" loading={this.state.loader} size={40} />
                         className={style.video}
                       />
                       <p   className={style.pp}>
-                      Xorazm viloyati xalq ta'limi boshqarmasiga virtual
+                      Jizzax viloyati xalq ta'limi boshqarmasiga virtual
                         sayohat qiling va boshqarma haqida ko'proq ma'lumotga
                         ega bo'ling.
                       </p>
@@ -1005,7 +1005,7 @@ color="violet" loading={this.state.loader} size={40} />
                         className={style.video}
                       />
                       <p   className={style.pp}>
-                      Xorazm viloyati xalq ta'limi boshqarmasiga virtual
+                      Jizzax viloyati xalq ta'limi boshqarmasiga virtual
                         sayohat qiling va boshqarma haqida ko'proq ma'lumotga
                         ega bo'ling.
                       </p>
@@ -1131,7 +1131,7 @@ color="violet" loading={this.state.loader} size={40} />
                       />
                       
                       <p   className={style.pp}>
-                      Xorazm viloyati xalq ta'limi boshqarmasiga virtual
+                      Jizzax viloyati xalq ta'limi boshqarmasiga virtual
                         sayohat qiling va boshqarma haqida ko'proq ma'lumotga
                         ega bo'ling.
                       </p>
@@ -1253,7 +1253,7 @@ color="violet" loading={this.state.loader} size={40} />
                         className={style.video}
                       />
                       <p   className={style.pp}>
-                      Xorazm viloyati xalq ta'limi boshqarmasiga virtual
+                      Jizzax viloyati xalq ta'limi boshqarmasiga virtual
                         sayohat qiling va boshqarma haqida ko'proq ma'lumotga
                         ega bo'ling.
                       </p>
@@ -1375,7 +1375,7 @@ color="violet" loading={this.state.loader} size={40} />
                         className={style.video}
                       />
                       <p   className={style.pp}>
-                      Xorazm viloyati xalq ta'limi boshqarmasiga virtual
+                      Jizzax viloyati xalq ta'limi boshqarmasiga virtual
                         sayohat qiling va boshqarma haqida ko'proq ma'lumotga
                         ega bo'ling.
                       </p>
