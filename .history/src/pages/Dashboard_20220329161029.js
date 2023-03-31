@@ -26,7 +26,7 @@ import { Link } from 'react-router-dom'
 
 export default class Dashboard extends Component {
   state={
-    loader:false,
+    loader:true,
     news:null,
     school:null,
   region:null,
